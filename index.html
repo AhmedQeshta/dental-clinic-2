@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AddNew|Phone</title>
+    <!-- css style -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+
+    <div id="main1" class="">
+        <div class="main1" >
+            <div class="inputNum">
+                <input type="number"  placeholder="Search : 0599123456" pattern="[0-9]{10}">
+                <input id="btnSearch" type="image" src="img/Search.svg" alt="search">
+            </div>
+            <div class="orImage">
+                <img src="img/Or_edit.svg"  alt="">
+            </div>
+            <div class="btnNew">
+                <button class="btnAddNew" id="btnAddNew1">ADD New Phone</button>
+            </div>
+        </div>
+    </div>  
+
+    <div id="main2" class="hiddenMainAll">
+        <div class="main2" >
+            <div class="inputNum">
+                <input type="number"  placeholder="Search : 0599123456" pattern="[0-9]{10}">
+                <input type="image" src="img/Search.svg" alt="search">
+            </div>
+            <div class="bodySearch">
+                <h1>Chose Your Phone</h1>
+                <hr>
+                <label for="messageError" class="messageError" id="messageError">
+                    Any Message Error Hare
+                </label>
+                <ul>
+                    <li><img src="img/male.svg" alt="People"></li>
+                    <li>Jon Doe Jony</li>
+                    <li>0599123456</li>
+                    <li>male</li>
+                    <li><button id="chosePhone1" class="chosePhone">CHOSE</button></li>
+                </ul>
+                <hr class="hr2">
+                <ul>
+                    <li><img src="img/male.svg" alt="People"></li>
+                    <li>Jon Doe Jony</li>
+                    <li>0599123456</li>
+                    <li>male</li>
+                    <li><button id="chosePhone2" class="chosePhone">CHOSE</button></li>
+                </ul>
+                <hr class="hr2">
+                <ul>
+                    <li><img src="img/female.svg" alt="People"></li>
+                    <li>Jon Doe Jony</li>
+                    <li>0599123456</li>
+                    <li>Female</li>
+                    <li><button id="chosePhone3" class="chosePhone">CHOSE</button></li>
+                </ul>
+                <hr class="hr2">
+            </div> 
+            <div class="btnNew">
+                <button class="btnAddNew" id="btnAddNew2">ADD New Phone</button>
+            </div>
+        </div>
+    </div> 
+
+    <div id="main3" class="hiddenMainAll">
+        <div class="main3" >
+            <div class="bodySearch newH1">
+                <h1>Add new Patient</h1>
+                <hr class="hr3">
+                <div>
+                    <span>
+                        <input type="text" placeholder="First Name: Jony" name="firstname" id="firstname">
+                        <input type="text"placeholder="Mid Name: Jone" name="Midname" id="Midname">
+                    </span>
+                </div>  
+                <div>
+                    <span>
+                        <input type="text" placeholder="Last Name: Doe " name="lastname" id="lastname">
+                        <input type="number"placeholder="Phone: 0599123456"  pattern="[0-9]{10}" name="phone" id="phone">
+                    </span>
+                </div>
+                <div>
+                    <span class="cont">
+                        <input type="date" placeholder="Date Of Birth: 10/07/2002" name="dateOfBirth" id="dateOfBirth">
+                        <label class="container">Male
+                            <input type="radio" checked="checked" name="radio">
+                            <span class="checkmark"></span>
+                        </label>
+                        <label class="container">Female
+                            <input type="radio" name="radio">
+                            <span class="checkmark"></span>
+                        </label>
+                    </span>
+                </div>
+                <div>
+                    <input type="text" name="address" placeholder="address" id="address">
+                </div>
+                <div>
+                    <textarea name="textarea" class="textareaNote" id="textareaNote" placeholder="Any Note" cols="30" rows="6"></textarea>
+                </div>
+                <label for="messageError" class="messageError" id="messageError">
+                    Any Message Error Hare
+                </label>
+                <div class="btnAddAndBack">
+                    <button id="BackToSearch">Back to Search</button>
+                    <button>Add New</button>
+                </div>
+            </div>
+        </div>
+    </div>     
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/animation.gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/debug.addIndicators.min.js"></script>
+    <!-- End it --> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.4/gsap.min.js"></script>  
+    <script src="js/script.js"></script>
+</body>
+</html>

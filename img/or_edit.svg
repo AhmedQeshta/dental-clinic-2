@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="149.776" viewBox="0 0 65 149.776">
+  <g id="Group_41" data-name="Group 41" transform="translate(-1022 -457.588)">
+    <path id="Path_19" data-name="Path 19" d="M-7.73,61.147s-2.295,2.5,1.72,3.1,16.115-2.4,19.282-4.55C22.718,55.41,29.658,44.033,29.9,36.518c.159-4.536-8.122-4.677-29.9-4.83-22.291-.157-33.107,16.074-28.824-6.345C-21.588.824,1.029.644,9.282,1.489c1.163,1.356,0,4.941,0,4.941" transform="translate(1053.27 502.887)" fill="#fd7f2b"/>
+    <g id="Group_39" data-name="Group 39">
+      <g id="Group_40" data-name="Group 40" transform="translate(94 -7)">
+        <path id="Path_17" data-name="Path 17" d="M-8.486,44.892c-20.125-14.547,35.15-16.556-5.022-23.229S-11.938,0-11.938,0" transform="translate(974.801 467.786)" fill="none" stroke="#fd7f2b" stroke-linecap="round" stroke-width="5"/>
+        <g id="Group_21" data-name="Group 21" transform="translate(928 510.075)">
+          <path id="Path_20" data-name="Path 20" d="M32.5,0A32.5,32.5,0,1,1,0,32.5,32.5,32.5,0,0,1,32.5,0Z" transform="translate(0 -0.075)" fill="rgba(253,127,43,0.8)"/>
+        </g>
+        <path id="Path_18" data-name="Path 18" d="M-37.184,44.942s28.572-28.732-10.885-21.9C-85.356,29.489-44.738.2-40.059-3.105c.17-.12.314-.221.314-.221" transform="translate(1005.487 565.887)" fill="none" stroke="#fd7f2b" stroke-linecap="round" stroke-width="5"/>
+        <text id="OR" transform="translate(960 555)" fill="#fff" font-size="31" font-family="SegoeUI, Segoe UI"><tspan x="-20.957" y="0">OR</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

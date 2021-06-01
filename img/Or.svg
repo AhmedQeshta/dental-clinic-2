@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="149.809" viewBox="0 0 65 149.809">
+  <g id="Group_23" data-name="Group 23" transform="translate(-901 -590)">
+    <g id="Group_21" data-name="Group 21" transform="translate(901 635.075)">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="32.5" cy="32.5" r="32.5" transform="translate(0 -0.075)" fill="rgba(253,127,43,0.8)"/>
+      <text id="OR" transform="translate(32 44.925)" fill="#fff" font-size="31" font-family="SegoeUI, Segoe UI"><tspan x="-20.957" y="0">OR</tspan></text>
+    </g>
+    <line id="Line_3" data-name="Line 3" y1="42.846" transform="translate(933.27 592.5)" fill="none" stroke="rgba(253,127,43,0.8)" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_4" data-name="Line 4" y1="37.423" transform="translate(933.27 699.887)" fill="none" stroke="rgba(253,127,43,0.8)" stroke-linecap="round" stroke-width="5"/>
+  </g>
+</svg>
